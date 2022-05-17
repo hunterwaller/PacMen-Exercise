@@ -13,4 +13,4 @@
 <p>This program's components were obtained from the MIT full time programming course, under the official MIT Copyright and License.</p>
 
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
